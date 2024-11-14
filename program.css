@@ -281,6 +281,7 @@ h4{
     margin-top: 30px;
     margin-bottom:20px;
     transition:  transform 0.3s ease;
+    animation: scroll 10s linear infinite;
 }
 #four:hover{
     transform: scale(1.04);
@@ -368,6 +369,4 @@ section6{
     text-decoration: none;
     /* margin-top: 26px; */
     }
-#marquee{
-    animation: scroll 10s linear infinite;
-}
+
